@@ -1,22 +1,25 @@
 # AI, Cloud & Digital Transformation Portfolio
 
 **Margaret Weisbrod Morris**  
-Executive Strategist | AI & Cloud Transformation | Digital Transformation | Executive Advisory
+Strategist | Uniting People, Purpose and Technology
 
 ---
 
-## 🌟 Portfolio Overview
+## 🌟 About My Portfolio
 
-This portfolio highlights applied projects in artificial intelligence, machine learning, prompt engineering, cloud computing, and business transformation. The work reflects my transition from executive nonprofit leadership into technology strategy, with a focus on helping organizations make better decisions, modernize operations, and use emerging technology in practical, human-centered ways.
+This portfolio highlights applied skills in artificial intelligence, machine learning, prompt engineering, cloud computing, and business transformation. 
 
-My background includes more than 20 years of executive leadership, strategic planning, organizational transformation, technology adoption, partnership development, governance, and data-informed decision-making. My current work builds on that experience through graduate-level study in AI, machine learning, and cloud computing.
+The projects are designed to demonstrate my ability to translate business challenges into technology-enabled solutions. The work includes predictive analytics, generative AI prompt engineering, spam detection with machine learning, and Azure cloud infrastructure. 
+
+Each project is framed as an executive case study with emphasis on business problem definition, practical implementation, strategic recommendations, and organizational value. 
+
+The skills showcased accentuate my transition from executive nonprofit leadership into technology strategy, with a focus on helping organizations make better decisions, modernize operations, and use emerging technology in practical, human-centered ways.
 
 ---
 
-## 🎯 Positioning
-
-I am not positioning myself as a software engineer.  
-I am positioning myself as an executive strategist who understands how to translate business problems into technology-enabled solutions.
+## 🎯 About me
+  
+I am an executive strategist who understands how to translate business problems into technology-enabled solutions. My background includes more than 20 years of executive leadership, strategic planning, organizational transformation, technology adoption, partnership development, governance, and data-informed decision-making. My current work builds on that experience through post-graduate-level study in AI, machine learning, and cloud computing.
 
 My strongest value is at the intersection of:
 
@@ -37,7 +40,6 @@ My strongest value is at the intersection of:
 | [GenAI Prompt Engineering for Customer Review Analysis](projects/02-customer-review-genai/) | Generative AI, prompt engineering, customer experience | Uses structured prompting to classify feedback and prioritize operational response |
 | [Machine Learning for Spam Detection](projects/03-spam-detection/) | NLP, classification, risk scoring | Identifies unwanted SMS messages and recommends safeguards against phishing risk |
 | [Azure Cloud Data Pipeline](projects/04-azure-cloud-pipeline/) | Azure, virtual machines, MySQL, Blob Storage, cloud architecture | Demonstrates cloud infrastructure for processing and storing business data |
-
 
 ---
 
@@ -66,11 +68,6 @@ Each project includes:
 - Code or notebooks  
 - Business impact analysis  
 
-If you are a recruiter or hiring manager, start with:
-
-1. **Project 01 — Predictive Analytics**  
-2. **Project 04 — Azure Cloud Pipeline**
-
 ---
 
 ## 🔧 Tech Stack
@@ -78,6 +75,18 @@ If you are a recruiter or hiring manager, start with:
 - Azure (VMs, Blob Storage, MySQL)
 - AWS    
 - Generative AI (prompt engineering, LLM workflows)  
+
+---
+
+## Best-Fit Roles
+- AI Strategy Consultant
+- Cloud Strategy Consultant
+- Digital Transformation Leader
+- Technology Program Manager
+- Executive Customer Success Manager
+- Business Transformation Consultant
+- Workforce Innovation / AI Adoption Leader
+- Executive Advisor / Technology Adoption Consultant
 
 ---
 
