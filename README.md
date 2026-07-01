@@ -33,10 +33,11 @@ My strongest value is at the intersection of:
 
 | Project | Focus Area | Business Value |
 |---|---|---|
-| [Predictive Analytics for Hotel Booking Cancellations](projects/01-hotel-cancellations/) | Machine learning, decision systems, business analysis | Improves revenue predictability by forecasting cancellations |
-| [GenAI Prompt Engineering for Customer Review Analysis](projects/02-customer-review-genai/) | Generative AI, prompt engineering, customer experience | Classifies customer feedback and prioritizes operational response |
-| [Machine Learning for Spam Detection](projects/03-spam-detection/) | NLP, classification, risk scoring | Identifies unwanted SMS messages and reduces phishing risk |
+| [Predictive Analytics for Hotel Booking Cancellations](projects/01-hotel-cancellations/) | Machine learning, decision systems, business analysis | Predicts cancellations and recommends policies to improve revenue predictability |
+| [GenAI Prompt Engineering for Customer Review Analysis](projects/02-customer-review-genai/) | Generative AI, prompt engineering, customer experience | Uses structured prompting to classify feedback and prioritize operational response |
+| [Machine Learning for Spam Detection](projects/03-spam-detection/) | NLP, classification, risk scoring | Identifies unwanted SMS messages and recommends safeguards against phishing risk |
 | [Azure Cloud Data Pipeline](projects/04-azure-cloud-pipeline/) | Azure, virtual machines, MySQL, Blob Storage, cloud architecture | Demonstrates cloud infrastructure for processing and storing business data |
+
 
 ---
 
