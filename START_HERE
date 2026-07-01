@@ -1,1 +1,80 @@
-start  info
+# START HERE
+
+Welcome to the AI, Cloud & Digital Transformation Portfolio by Margaret Weisbrod Morris.
+
+This guide is designed for recruiters, hiring managers, and technical reviewers who want a fast, clear overview of the portfolio and where to begin.
+
+---
+
+## Purpose of This Portfolio
+
+This portfolio demonstrates how executive leadership, business strategy, and emerging technologies—AI, machine learning, cloud computing, and digital transformation—come together to solve real organizational problems.
+
+Each project is structured as an executive case study, showing:
+- The business problem
+- The technical approach
+- The results
+- The business impact
+
+---
+
+## How to Navigate This Portfolio
+
+Start with the main README.md for a full overview of:
+- Positioning
+- Featured projects
+- Skills demonstrated
+- Tech stack
+- Roadmap
+
+Then explore the projects in this order:
+
+### 1. Predictive Analytics for Hotel Booking Cancellations
+Folder: `projects/01-hotel-cancellations/`
+
+This project blends machine learning with business decision-making. It demonstrates how predictive analytics can improve revenue stability and operational planning.
+
+### 2. Azure Cloud Data Pipeline
+Folder: `projects/04-azure-cloud-pipeline/`
+
+This project shows cloud architecture fundamentals using Azure Virtual Machines, MySQL, and Blob Storage. It highlights cloud modernization and scalable data processing.
+
+### 3. GenAI Prompt Engineering for Customer Review Analysis
+Folder: `projects/02-customer-review-genai/`
+
+This project demonstrates structured prompt engineering and generative AI workflows to classify customer feedback and support customer experience improvements.
+
+### 4. Machine Learning for Spam Detection
+Folder: `projects/03-spam-detection/`
+
+This project uses NLP and classification models to identify unwanted SMS messages and reduce phishing risk.
+
+---
+
+## What You Will Find in Each Project Folder
+
+Each project folder includes:
+- A dedicated README.md explaining the project
+- Visuals (architecture diagrams, workflow images, model output)
+- Notebooks or scripts used in the analysis
+- Supporting files (images, diagrams, documentation)
+
+---
+
+## Who This Portfolio Represents
+
+Margaret Weisbrod Morris is an executive strategist with deep experience in:
+- Organizational leadership
+- Strategic planning
+- Digital transformation
+- Technology adoption
+- Human-centered implementation
+
+Her current work builds on this foundation through graduate-level study in AI, machine learning, and cloud computing.
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/margaret-weisbrod-morris/
+
