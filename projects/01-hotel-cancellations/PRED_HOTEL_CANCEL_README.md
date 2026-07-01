@@ -62,3 +62,10 @@ The goal was to use historical booking data to identify cancellation patterns an
 ## Executive Takeaway
 
 Predictive analytics can help organizations move from reactive decision-making to proactive planning. The value of the model is not only technical accuracy; it is the ability to support better business policies, improve resource planning, and reduce avoidable losses.
+
+## 🏨 Hotel Cancellation Predictive Analytics Architecture
+
+This diagram illustrates the end‑to‑end flow of the predictive analytics system — from data ingestion to business decision optimization — using the same Azure‑style theme as the cloud pipeline architecture.
+
+![Hotel Cancellation Architecture – Vertical](hotel-cancellation-architecture-vertical.png)
+
